@@ -1340,6 +1340,9 @@ input::-webkit-inner-spin-button {
     box-shadow: none;
     padding: 0;
   }
+  .my-drop-now{
+    left: -50px;
+  }
 }
 @media (max-width: 350px) {
   .abs-animate,

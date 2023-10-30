@@ -82,3 +82,9 @@ body {
 .event-card {
   text-align: right;
 }
+@media (max-width: 767px) {
+  .my-drop-now {
+    right: -50px;
+    left: unset;
+  }
+}
